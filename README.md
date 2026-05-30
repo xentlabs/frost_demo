@@ -1,6 +1,6 @@
 # Xent Games Frost Demo
 
-This repo contains a Jupyter notebook that allows you to train a model on a Xent Game using the efficient Frost algorithm.
+This repo contains a Jupyter notebook that allows you to train a model on a Xent Game using the efficient [Frost algorithm](https://arxiv.org/abs/2605.27701v1).
 
 ## Run On Colab
 
