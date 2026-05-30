@@ -20,10 +20,10 @@ python -m ipykernel install --user --name xent-games-frost --display-name "Xent 
 
 For improved performance on Linux, you can additionally install `causal-conv1d`.
 
-Open `xent_games_frost.ipynb` in Jupyter, VS Code, or another notebook UI and select the `Xent Games Frost` kernel. If you don't see the kernel, you might have to restart the program first.
+Open `frost_demo.ipynb` in Jupyter, VS Code, or another notebook UI and select the `Xent Games Frost` kernel. If you don't see the kernel, you might have to restart the program first.
 
 To launch it with JupyterLab:
 
 ```bash
-python -m jupyter lab xent_games_frost.ipynb
+python -m jupyter lab frost_demo.ipynb
 ```
