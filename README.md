@@ -4,7 +4,7 @@ This repo contains a Jupyter notebook that allows you to train a model on a Xent
 
 ## Run On Colab
 
-Simply open the [Colab notebook](TODO) and follow the instructions there.
+Simply open the [Colab notebook](https://colab.research.google.com/drive/1aL8m1fLpYHidrZZ6GwYjMwfOOfgw20ot) and follow the instructions there.
 
 ## Run Locally
 
